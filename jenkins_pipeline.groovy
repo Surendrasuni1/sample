@@ -36,6 +36,16 @@ pipeline{
 				
 				}
 			}
+			stage('last stage of the code'){
+				steps{
+				
+				echo 'All The Best!!!!!'
+				
+				}
+			
+			
+			
+			}
 		
 		}
 
